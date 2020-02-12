@@ -46,7 +46,7 @@ for (c = 0; i < close.length; c++) {
     close[i].onclick = function() {
       let div = this.parentElement;
       div.style.display = "none";
-      empty.style.display= "";
+     
     }
   }
 }
